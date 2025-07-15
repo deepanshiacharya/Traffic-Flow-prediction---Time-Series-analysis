@@ -93,12 +93,3 @@ Urban areas face increasing traffic congestion due to rapid population and vehic
 
 ---
 
-## Potential Real-World Applications
-
-- **Traffic Management**: Dynamic signal timing, congestion control  
-- **Smart City Planning**: Infrastructure upgrades based on forecast demand  
-- **E-commerce & Logistics (e.g., Meesho)**: Predictive routing, delivery load balancing, cost optimization  
-- **Environmental Impact**: Reduced emissions through fuel-efficient flow
-
----
-
